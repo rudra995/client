@@ -18,7 +18,7 @@ const FontImport = () => {
   return null;
 };
 
-const socket = io("http://127.0.0.1:5000", {
+const socket = io("https://server-vueq.onrender.com", {
   transports: ["websocket"],
 });
 
