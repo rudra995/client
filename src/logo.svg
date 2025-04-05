@@ -1,0 +1,4 @@
+<!-- Save this file as "logo.svg" in your public folder -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <path fill="#0a2463" d="M100 20L40 60v20l60-40 60 40V60L100 20zm0 60l-60 40v20l60-40 60 40v-20l-60-40z"/>
+</svg>
