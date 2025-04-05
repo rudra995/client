@@ -1,6 +1,6 @@
 import { useEffect, useState, useRef } from 'react';
 import io from 'socket.io-client';
-import './Chatbot.css';
+import './chatbot.css';
 
 // Add Poppins font from Google Fonts
 const FontImport = () => {
